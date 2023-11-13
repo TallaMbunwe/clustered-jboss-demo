@@ -50,4 +50,4 @@ jobs:
           app-name: 'etmwebapp'
           slot-name: 'Production'
           package: '*.war'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2C85E34D0A554711AF6156EBE0F347B5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ABC3A77528B24769875B50BABD39A67B }}
